@@ -6,6 +6,7 @@ channels:
 dependencies:
 - jupyterlab
 - ipywidgets
+- tqdm
 - numpy
 - matplotlib
 - pytorch
