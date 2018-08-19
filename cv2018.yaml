@@ -1,0 +1,16 @@
+name: cv2018
+channels:
+- conda-forge
+- pytorch
+- defaults
+dependencies:
+- jupyterlab
+- ipywidgets
+- numpy
+- matplotlib
+- pytorch
+- scikit-learn
+- nodejs
+- pip
+- pip:
+  - opencv-contrib-python
